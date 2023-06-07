@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <title>Music Player</title>
+
+  <link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+
+<body>
+
+  <h1>Music Player</h1>
+
+  
+
+  <div id="playlist">
+
+    <ul id="song-list"></ul>
+
+  </div>
+
+  
+
+  <audio id="audio-player" controls></audio>
+
+  
+
+  <script src="script.js"></script>
+
+</body>
+
+</html>
