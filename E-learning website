@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <title>E-Learning Website</title>
+
+  <link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+
+<body>
+
+  <header>
+
+    <h1>Welcome to E-Learning</h1>
+
+    <nav>
+
+      <ul>
+
+        <li><a href="#">Home</a></li>
+
+        <li><a href="#">Courses</a></li>
+
+        <li><a href="#">Upload</a></li>
+
+        <li><a href="#">Assessments</a></li>
+
+        <li><a href="#">Contact</a></li>
+
+        <li><a href="#">Admin</a></li>
+
+      </ul>
+
+    </nav>
+
+  </header>
+
+  
+
+  <section>
+
+    <h2>Feature 1: Signing up online</h2>
+
+    <p>Content for signing up online.</p>
+
+  </section>
+
+  
+
+  <section>
+
+    <h2>Feature 2: Facility of uploading documents online</h2>
+
+    <p>Content for uploading documents online.</p>
+
+  </section>
+
+  
+
+  <section>
+
+    <h2>Feature 3: Responsive Design</h2>
+
+    <p>Content for responsive design.</p>
+
+  </section>
+
+  
+
+  <section>
+
+    <h2>Feature 4: Online Assessments</h2>
+
+    <p>Content for online assessments.</p>
+
+  </section>
+
+  
+
+  <section>
+
+    <h2>Feature 5: Future of e-learning</h2>
+
+    <p>Content for the future of e-learning.</p>
+
+  </section>
+
+  
+
+  <section>
+
+    <h2>Feature 6: Communication through LMS</h2>
+
+    <p>Content for communication through LMS.</p>
+
+  </section>
+
+  
+
+  <section>
+
+    <h2>Feature 7: Admin Dashboards</h2>
+
+    <p>Content for admin dashboards.</p>
+
+  </section>
+
+  
+
+  <footer>
+
+    <p>&copy; 2023 E-Learning Website. All rights reserved.</p>
+
+  </footer>
+
+  
+
+  <script src="script.js"></script>
+
+</body>
+
+</html>
