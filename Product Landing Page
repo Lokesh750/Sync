@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Product Landing Page</title>
+
+  <link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+
+  <header>
+
+    <h1>Product Name</h1>
+
+    <nav>
+
+      <ul>
+
+        <li><a href="#features">Features</a></li>
+
+        <li><a href="#pricing">Pricing</a></li>
+
+        <li><a href="#contact">Contact</a></li>
+
+      </ul>
+
+    </nav>
+
+  </header>
+
+  <section id="hero">
+
+    <div class="container">
+
+      <h2>Introducing the Best Product</h2>
+
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed ligula vel eros ultrices faucibus.</p>
+
+      <a href="#contact" class="btn">Get Started</a>
+
+    </div>
+
+  </section>
+
+  <section id="features">
+
+    <div class="container">
+
+      <h3>Key Features</h3>
+
+      <div class="feature">
+
+        <img src="feature1.jpg" alt="Feature 1">
+
+        <h4>Feature 1</h4>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+
+      </div>
+
+      <div class="feature">
+
+        <img src="feature2.jpg" alt="Feature 2">
+
+        <h4>Feature 2</h4>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+
+      </div>
+
+      <div class="feature">
+
+        <img src="feature3.jpg" alt="Feature 3">
+
+        <h4>Feature 3</h4>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+
+      </div>
+
+    </div>
+
+  </section>
+
+  <section id="pricing">
+
+    <div class="container">
+
+      <h3>Pricing</h3>
+
+      <div class="price">
+
+        <h4>Basic</h4>
+
+        <p>$19/month</p>
+
+        <ul>
+
+          <li>Feature 1</li>
+
+          <li>Feature 2</li>
+
+          <li>Feature 3</li>
+
+        </ul>
+
+        <a href="#contact" class="btn">Buy Now</a>
+
+      </div>
+
+      <div class="price">
+
+        <h4>Pro</h4>
+
+        <p>$39/month</p>
+
+        <ul>
+
+          <li>Feature 1</li>
+
+          <li>Feature 2</li>
+
+          <li>Feature 3</li>
+
+          <li>Feature 4</li>
+
+        </ul>
+
+        <a href="#contact" class="btn">Buy Now</a>
+
+      </div>
+
+      <div class="price">
+
+        <h4>Enterprise</h4>
+
+        <p>$99/month</p>
+
+        <ul>
+
+          <li>Feature 1</li>
+
+          <li>Feature 2</li>
+
+          <li>Feature 3</li>
+
+          <li>Feature 4</li>
+
+          <li>Feature 5</li>
+
+        </ul>
+
+        <a href="#contact" class="btn">Buy Now</a>
+
+      </div>
+
+    </div>
+
+  </section>
+
+  <section id="contact">
+
+    <div class="container">
